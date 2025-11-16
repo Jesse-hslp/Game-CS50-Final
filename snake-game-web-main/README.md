@@ -4,7 +4,11 @@
     </p>
 </h1>
 
-This project my cs50 final project. I used html, css, js, python3 and sqlite for this project. This website has login and logout features to keep track of user's scores. Also website shows you top score of each user in `Scores` page.
+This project is my CS50 final project. It is a simple web-based game platform built with HTML, CSS and JavaScript on the front end, and Python (Flask) with SQLite on the back end.
+
+The website allows users to register, log in and log out securely. Once logged in, users can play the game and their scores are automatically stored in the database. The Scores page displays each user’s best score so far, making it easy to track personal progress over time and compare results.
+
+I focused on keeping the interface straightforward and responsive, so it works comfortably in a browser. The project also includes basic session management, form handling and database queries, giving a small but complete example of a full-stack web application.
 <br><br>
 ![mypic](img/website-main2.png)
 ![alt](img/website2.png)
